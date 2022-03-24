@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  #app {
+    background-color: blue;
+    width: 300px;
+    height: 400px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    border-radius: 30px;
+  }
+  #app input {
+    width: 290px;
+    height: 50px;
+    font-size: 40px;
+    margin-top: 20px;
+    border: 2px solid yellow;
+    color: gray;
+    background-color: gainsboro;
+    border-radius: 20px;
+  }
+  #app table {
+    margin-top: 20px;
+    width: 260px;
+    height: 270px;
+  }
+  #app button {
+    width: 40px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 10px;
+  }
+  #ac {
+    background-color: red;
+    width: 70px;
+  }
+  #data {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #ans {
+    background-color: red;
+  }
+  
